@@ -1,0 +1,13 @@
+---
+title: "Homework"
+---
+
+## Homework Assignments
+
+Here are the assignments I completed during the semester:
+
+1. **Assignment 1** - Data Analysis with Pandas  
+2. **Assignment 2** - Visualization with Matplotlib  
+3. **Assignment 3** - Quarto Slides Creation  
+
+_You can list and link to your work here._

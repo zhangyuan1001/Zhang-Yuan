@@ -1,0 +1,13 @@
+---
+title: "Labs"
+---
+
+## Lab Exercises
+
+Below is the collection of lab exercises and practical tasks:
+
+1. **Lab 1** - Exploring Datasets  
+2. **Lab 2** - Web Scraping with Python  
+3. **Lab 3** - Building Quarto Presentations  
+
+_Provide detailed descriptions or links to the lab results._

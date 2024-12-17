@@ -1,0 +1,7 @@
+---
+title: "Welcome to My Portfolio"
+---
+
+Welcome to my portfolio! This website showcases my work, including homework assignments and lab exercises completed during the semester.
+
+Navigate using the menu to learn more about me, view my homework, or check out my lab work.
